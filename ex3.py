@@ -1,4 +1,3 @@
-
 number1 = input("Enter whole number: ")
 number2 = input("Enter decimal number: ")
 
@@ -9,4 +8,3 @@ round_number = int(round(float_number))
 print(number1)
 print(number2)
 print(round_number)
-
